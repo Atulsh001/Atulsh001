@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Anurag raj
 
-<!--
-**Atulsh001/Atulsh001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Passionate about Programming  
+🚀 Future Software Engineer  
+🌱 Currently learning Data Structures & Algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m improving my DSA daily
+- 🌱 Learning C, C++, HTML, CSS
+- 👨‍💻 Interested in Competitive Programming
+- 🎯 Goal: To become one of the best software engineers
+
+---
+
+## 🛠️ Skills
+
+- C
+- C++
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: Add-your-link-here
+
+⭐️ From Atul Kumar
