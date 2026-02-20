@@ -1,46 +1,52 @@
-# Hi 👋, I'm Anurag raj
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1iQW9ZSaTF4Jwv8TGVw7oVmnNFDQHo4wf" width="100%" />
+</p>
 
-🎓 CSE Student  
-💻 Passionate about Programming  
-🚀 Future Software Engineer  
-🌱 Currently learning Data Structures & Algorithms  
+<h1 align="center">Hi 👋, I'm Atul Kumar</h1>
+<h3 align="center">CSE Student | Future Software Engineer | DSA Learner</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m improving my DSA daily
-- 🌱 Learning C, C++, HTML, CSS
-- 👨‍💻 Interested in Competitive Programming
-- 🎯 Goal: To become one of the best software engineers
+- 🎓 Computer Science & Engineering Student
+- 💻 Passionate about Programming & Problem Solving
+- 🌱 Currently learning Data Structures & Algorithms
+- 🎯 Goal: To become one of the best Software Engineers
+- ⚡ Love solving logical and coding problems
 
 ---
 
 ## 🛠️ Skills
 
-- C
-- C++
-- HTML
-- CSS
-- Git & GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Streak
+## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: Add-your-link-here
+- 📧 your-email@gmail.com
+- 💼 Add your LinkedIn link here
 
-⭐️ From Atul Kumar
+---
+
+⭐ From Atul Kumar
